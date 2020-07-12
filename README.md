@@ -34,6 +34,9 @@ Audio on lower end motherboard had been known in the past for being riddled with
 ## Khadas Enclosure
 The Khadas tone board is sold on Amazon as a PCB and without a case. This put me on a journey to learn to make a 3D model for the device.
 Using Fusion360 I was able to model a case for the Tone Board.
+![case](https://user-images.githubusercontent.com/59487209/87256638-0ba9ce80-c45a-11ea-83ad-d4755f34382b.png)
+![lid](https://user-images.githubusercontent.com/59487209/87256641-18c6bd80-c45a-11ea-9b02-133fc408b1dc.png)
+
 ### Features of the Enclosure
 - Model in the dimension of the JDS Atom
 - Snap fit lid
