@@ -41,6 +41,7 @@ Using Fusion360 I was able to model a case for the Tone Board.
 - Snap fit lid
 - Made from PLA material
 - PCB stand for support.
+- Name printed on the front
 
 ### Sources
 [https://www.khadas.com/tone](https://www.khadas.com/tone)
