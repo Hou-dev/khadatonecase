@@ -1,7 +1,7 @@
 ## What is the Khadas Tone Board?
 Khadas is a Digital to Analog convert that converts a digital signal to analog singal. For PCs it converts our digital singal of 1s and 0s to and analog which a speaker system or headphones could understand.
 ## Why would you use such a device?
-Audio on lower end motherboard had been known in the past for being riddled with distortion and interference. To the best audio experice a device like the Khadas Tone Board is reccomened. The fine people over at AudioScience forum has compiled a list of measurements and reviews. They will do a better job at explain this subject in depth. 
+Audio on lower end motherboards has been known in the past for being riddled with distortion and interference. For the best audio experience a device like the Khadas Tone Board is reccomened. The fine people over at AudioScience forum has compiled a list of measurements and reviews. They will do a better job at explain this subject in depth. 
 [ASR Forum](https://www.audiosciencereview.com/forum/index.php?pages/Audio_DAC_Performance_Index/ "ASR Forum")
 ## Features of the Khadas Tone Board include:
 ### ES9038Q2M
