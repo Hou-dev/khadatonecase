@@ -44,6 +44,11 @@ Using Fusion360 I was able to model a case for the Tone Board.
 - Name printed on the front
 - Rounded corners
 
+### End results
+![20200718_161611](https://user-images.githubusercontent.com/59487209/87862186-ec57e900-c912-11ea-8b77-9cc41d881a83.jpg)
+![20200718_161724](https://user-images.githubusercontent.com/59487209/87862187-eeba4300-c912-11ea-8eaa-b32167b9005c.jpg)
+![20200718_161736](https://user-images.githubusercontent.com/59487209/87862188-eeba4300-c912-11ea-8254-9265e658dfd2.jpg)
+
 ### Sources
 [https://www.khadas.com/tone](https://www.khadas.com/tone)
 
