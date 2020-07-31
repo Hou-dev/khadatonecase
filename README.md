@@ -53,6 +53,10 @@ Using Fusion360 I was able to model a case for the Tone Board.
 - Thicker walls
 - Increase the size of the holes for the RCA to passthrough
 
+### Added a version 3 of case with improvements
+![body](https://user-images.githubusercontent.com/59487209/89075440-cd5e4b80-d343-11ea-9020-a5cb41f340c4.png)
+![face](https://user-images.githubusercontent.com/59487209/89075445-ce8f7880-d343-11ea-9050-30357b89496d.png)
+
 ### Sources
 [https://www.khadas.com/tone](https://www.khadas.com/tone)
 
